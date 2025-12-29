@@ -35,7 +35,7 @@ controls.enablePan = false;
 // Load model
 const loader = new GLTFLoader();
 loader.load(
-  "./model.glb",
+  "./model.gltf",
   (gltf) => {
     const model = gltf.scene;
     scene.add(model);
