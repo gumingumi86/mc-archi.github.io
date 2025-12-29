@@ -1,0 +1,14 @@
+{
+  "buildings": [
+    {
+      "id": "castle",
+      "name": "Minecraft Castle",
+      "description": "美しい中世の城",
+      "modelPath": "./model.gltf",
+      "thumbnail": "./thumbnails/castle.jpg",
+      "author": "patrix",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}
+
