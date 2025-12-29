@@ -57,7 +57,7 @@ loader.load(
   },
   undefined,
   (error) => {
-    console.error("Failed to load GLB model", error);
+    console.error("Failed to load GLTF model", error);
   }
 );
 
